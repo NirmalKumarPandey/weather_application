@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WeitherReport</string>
+    <string name="location">Location :</string>
+    <string name="your_location">Place</string>
+    <string name="name">Enter Name</string>
+    <string name="save">Save</string>
+    <string name="temperature">Temperature</string>
+    //All Bottom AppBar Item
+    <string name="current">Current</string>
+    <string name="date">Date</string>
+    <string name="report">7 Day Report</string>
+    <string name="setting">Setting</string>
+    //Second Activity
+    <string name="date1">Enter Date</string>
+    <string name="enter_date">Date</string>
+    <string name="city">Enter City</string>
+    <string name="spinner">City/ Town</string>
+    <string name="show">Show</string>
+    <string name="show_date_city">Show Date And City</string>
+    <string-array name="spinner">
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Patna</item>
+        <item>Noida</item>
+        <item>Kolkata</item>
+    </string-array>
+</resources>
